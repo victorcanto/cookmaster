@@ -1,7 +1,23 @@
 # Projeto Cookmaster
 
-# Descrição
+## Descrição
 Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. Neste projeto é possível fazer o cadastro e login de pessoas usuárias, onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou. Utilizando JWT Token para autenticação e geração de tokens.
+
+## Habilidades
+
+- Entender o que há por dentro de um token de autenticação;
+
+- Gerar tokens a partir de informações como login e senha;
+
+- Autenticar rotas do Express, usando o token JWT;
+
+- Fazer upload de arquivos em APIs REST;
+
+- Salvar arquivos no servidor através de uma API REST;
+
+- Consultar arquivos do servidor através de uma api REST.
+
+- Realizar testes de integração
 
 ## Tecnologias usadas
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
