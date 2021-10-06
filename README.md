@@ -1,7 +1,5 @@
 # Projeto Cookmaster
 
-[README detalhado do projeto proposto pela Trybe]
-
 # Descrição
 Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. Neste projeto é possível fazer o cadastro e login de pessoas usuárias, onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou. Utilizando JWT Token para autenticação e geração de tokens.
 
