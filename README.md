@@ -28,11 +28,11 @@ Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. N
 ## Clonando repositório
 > No seu terminal, executar o comando:
 ```bash
-git clone git@github.com:victorcanto/trybewallet.git
+git clone git@github.com:victorcanto/cookmaster.git
 ``` 
 ou
 ```bash
-git clone https://github.com/victorcanto/trybewallet.git
+git clone https://github.com/victorcanto/cookmaster.git
 ``` 
 
 ## Instalando Dependências
